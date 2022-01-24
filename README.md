@@ -6,8 +6,8 @@ Visualise The Backblaze Dataset
 ![](web/screenshot.jpg)
 
 This repository contains the source code and data fetching
-instructions for the talk "Computations as Assets; A New Approach to
-Reproducibility and Transparency", by *Anders Berkeman*, *Carl
+instructions for the talk "[Computations as Assets; A New Approach to
+Reproducibility and Transparency](https://www.youtube.com/watch?v=J4zvLJn3ya8)", by *Anders Berkeman*, *Carl
 Drougge*, and *Sofia Hörberg*, presented at [PyData Global](https://pydata.org/global) 2021-10-28.
 
 By cloning the repository and following the instructions in this
